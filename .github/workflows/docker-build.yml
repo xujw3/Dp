@@ -8,7 +8,7 @@ on:
 
 env:
   # 镜像名称 (不包含仓库前缀)
-  IMAGE_NAME: docker-proxy
+  IMAGE_NAME: mydocker
 
 jobs:
   build-and-push:
