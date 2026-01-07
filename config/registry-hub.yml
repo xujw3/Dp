@@ -40,7 +40,7 @@ health:
     threshold: 3
 
 proxy:
-  remoteurl: https://registry-1.docker.io
+  remoteurl: https://docker.eco.xx.kg
   username: 
   password:
   ttl: 168h  
